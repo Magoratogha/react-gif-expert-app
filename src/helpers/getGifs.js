@@ -1,4 +1,4 @@
-export default async function getGifs( category, resultsLimit, apyKey) {
+export default async function getGifs(category, resultsLimit, apyKey) {
     const requestEndpoint = 'https://api.giphy.com/v1/gifs/search?q=' +
         encodeURI(category) + '&limit=' + resultsLimit + '&api_key=' + apyKey;
     try {

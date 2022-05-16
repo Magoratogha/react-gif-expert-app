@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test in <GifExpertApp /> should render the component properly 1`] = `
+<div>
+  <h2>
+    GifExpertApp
+  </h2>
+  <form>
+    <input
+      type="text"
+      value=""
+    />
+  </form>
+  <hr />
+  <ol>
+    <h3>
+      One Punch Man
+    </h3>
+    <p
+      class="animate__animated animate__flash"
+    >
+      Loading...
+    </p>
+    <div
+      class="cards-grid"
+    />
+  </ol>
+</div>
+`;

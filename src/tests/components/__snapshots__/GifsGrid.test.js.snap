@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test in <GifsGrid /> should render the component properly 1`] = `
+<div>
+  <h3>
+    Test
+  </h3>
+  <p
+    class="animate__animated animate__flash"
+  >
+    Loading...
+  </p>
+  <div
+    class="cards-grid"
+  />
+</div>
+`;
